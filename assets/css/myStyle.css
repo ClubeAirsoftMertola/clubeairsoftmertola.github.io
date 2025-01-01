@@ -1,0 +1,18 @@
+body{
+  background: rgb(45,49,50);
+  background: radial-gradient(circle, rgba(45,49,50,1) 0%, rgba(50,51,55,1) 100%);
+}
+
+img {
+  display: block;
+  width: 40%;
+  margin: auto;
+}
+
+
+
+@media only screen and (max-width: 480px) {
+img {
+  width: 100%;
+}
+}
