@@ -28,8 +28,9 @@ Quando for um número ímpar de jogadores, um jogador faz de VIP/Refém. Existem
 
  * Se o tempo terminar, ganha a equipa defensora
  * Equipa defensora ganha se eliminar toda equipa atacante (dentro do tempo limite)
- * Caso o VIP/Refém seja atingido, o mesmo deve ficar imóvel e à espera que um elemento da sua equipa faça novo contacto com ele
- * Caso o VIP/Refém seja atingido 2x, a sua equipa (equipa atacante) perde
- * Equipa atacante ganha se resgatar o VIP/Refém dentro do tempo de jogo (mesmo se tiver eliminado a equipa adversária)
- * O VIP/Refém pode conter uma réplica, mas sem carregador. Os restantes elementos da sua equipa, quando o resgatarem devem fornecer um carregador para que possa disparar
+    * Caso o VIP/Refém seja atingido, o mesmo deve ficar imóvel e à espera que um elemento da sua equipa faça novo contacto com ele
+    * Caso o VIP/Refém seja atingido 2x, a sua equipa (equipa atacante) perde
+ * Equipa atacante ganha se: 
+    * Transportar/Resgatar o VIP/Refém dentro do tempo de jogo (mesmo se tiver eliminado a equipa adversária)
+ * No caso do jogo "Extração", o VIP/Refém pode conter uma réplica, mas sem carregador. Os restantes elementos da sua equipa, quando o resgatarem devem fornecer um carregador para que possa disparar
 
