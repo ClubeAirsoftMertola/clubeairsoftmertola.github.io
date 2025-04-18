@@ -16,7 +16,8 @@ O clube adoptou, em reunião, o uso do seguinte fardamento:
 
 <br><br>
 
-**NOTA:** No que toca às cores cada marca tem a sua própria tonalidade. Pede-se, assim, quando forem comprar tenham isso em atenção para que depois na compra dos acessórios esteja tudo em conformidade. Para mais informação ver no _manual do equipamento a adquirir_.
+**NOTA:**<br>
+No que toca às cores cada marca tem a sua própria tonalidade. Pede-se, assim, quando forem comprar tenham isso em atenção para que depois na compra dos acessórios esteja tudo em conformidade. O 3º Uniforme é de uso apenas para casos específicos e/ou pontuais. Para mais informação ver no _manual do equipamento a adquirir_.
 
 <br><br>
 
