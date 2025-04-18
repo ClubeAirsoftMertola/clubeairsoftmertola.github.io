@@ -3,6 +3,7 @@
 Jogo rápido (quick response) semelhante ao Team Deathmatch mas não só com limite de tempo de jogo bastante curto, como também a área de jogo.
 
 
+<br>
 
 ### Regras gerais:
 
@@ -14,6 +15,7 @@ Jogo rápido (quick response) semelhante ao Team Deathmatch mas não só com lim
   * Ambas as equipas começam na sua base (já com as réplicas) e progridem no terreno
 
 
+<br>
 
 ### Regras de Eliminação
 
@@ -22,6 +24,7 @@ Jogo rápido (quick response) semelhante ao Team Deathmatch mas não só com lim
 * Proceder à regra “comum” de eliminado
 
 
+<br>
 
 ### Condições de término de jogo:
 

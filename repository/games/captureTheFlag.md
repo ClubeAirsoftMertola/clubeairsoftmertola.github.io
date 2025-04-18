@@ -3,6 +3,7 @@
 O principal objectivo do jogo Capture the Flag é entrar na base do inimigo, apanhar a bandeira e trazê-la de volta à respectiva base. O jogo é disputado por duas equipas (de igual numero de jogadores) onde está presente a bandeira do inimigo.
 
 
+<br>
 
 ### Regras Gerais:
 
@@ -13,6 +14,7 @@ O principal objectivo do jogo Capture the Flag é entrar na base do inimigo, apa
  * A bandeira deve ser sempre visivel durante o seu transporte
  * Se a bandeira estiver no chão, a equipa adversária pode pegar nela e trazê-la de volta à sua base forçando a equipa atacante voltar a capturar
 
+<br>
 
 ### Regras de eliminação:
 
@@ -21,6 +23,7 @@ O principal objectivo do jogo Capture the Flag é entrar na base do inimigo, apa
  * Proceder à regra “comum” de eliminado
 
 
+<br>
 
 ### Condições de término de jogo:
 

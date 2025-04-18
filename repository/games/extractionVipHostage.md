@@ -10,6 +10,7 @@ Quando for um número ímpar de jogadores, um jogador faz de VIP/Refém. Existem
  * **Escolta**: Um jogador faz de VIP/Refém e progride do campo de uma determinada zona até outra no sentido oposto juntamente com a equipa atacante.
 
 
+<br>
 
 ### Regras Gerais:
 
@@ -17,6 +18,7 @@ Quando for um número ímpar de jogadores, um jogador faz de VIP/Refém. Existem
 * Sem respawn
 * Uso de rádios: On
 
+<br>
 
 ### Regras de eliminação:
 
@@ -24,6 +26,7 @@ Quando for um número ímpar de jogadores, um jogador faz de VIP/Refém. Existem
  * Sair da zona limite da área de jogo
  * Proceder à regra “comum” de eliminado
 
+<br>
 
 ### Condições de término de jogo:
 
