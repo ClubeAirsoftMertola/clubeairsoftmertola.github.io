@@ -5,14 +5,13 @@ O clube adoptou, em reunião, o uso do seguinte fardamento:
 
 <br><br>
 
-| **1º Uniforme**                              | **2º Uniforme**                                             | **3º Uniforme**                            |
-|----------------------------------------------|-------------------------------------------------------------|--------------------------------------------|
-| Padrão Multicam                              | Sweat sem capuz (personalizada com o logo e nome) cor preto | Padrão Liso (Ranger Green)                 |
-| Combat Shirt (patente + nome braço esquerdo) | Calças ganga (cor escuro/preto)                             | Calças cor lisa (Ranger Green)             |
-| Patch clube                                  | Botas                                                       | Botas                                      |
-| Calças                                       | Capacete (cor Tan/Coyote) ou Chapéu/Bonnie                  | Capacete (cor Tan/Coyote) ou Chapéu/Bonnie |
-| Botas                                        |                                                             |                                            |
-| Capacete (cor Tan/Coyote) ou Chapéu/Bonnie   |                                                             |                                            |
+| **1º Uniforme** (Padrão Multicam)                | **2º Uniforme** (PMC / Contractor)                          | **3º Uniforme** (Cor Lisa)                 |
+|--------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|
+| Padrão Multicam (Gen 3)                          | Sweat sem capuz (personalizada com o logo e nome) cor preto | Padrão Liso (Ranger Green)                 |
+| Combat Shirt (patch clube + nome braço esquerdo) | Calças ganga (cor escuro/preto)                             | Calças cor lisa (Ranger Green)             |
+| Calças Multicam (Gen 3)                          | Botas                                                       | Botas                                      |
+| Botas                                            | Capacete (cor Tan/Coyote) ou Chapéu/Bonnie                  | Capacete (cor Tan/Coyote) ou Chapéu/Bonnie |
+| Capacete (cor Tan/Coyote) ou Chapéu/Bonnie       |                                                             |                                            |
 
 
 <br><br>
@@ -28,4 +27,4 @@ O clube adoptou, em reunião, o uso do seguinte fardamento:
 <br><br>
 
 **Acessórios:** <br>
-Todos os equipamentos de transporte ou proteção (Colete, Chest Rig, Coldre, Cinturão, mochila, etc) devem ser com o padrão multicam ou, pela cor secundária ( cor verde - Olive Drab ou Ranger Green). Não são autorizadas outras cores ou padrões (Regra relacionada com a uniformização e facilidade em trocar acessórios entre fardamentos).
+Todos os equipamentos de transporte ou proteção (Colete, Chest Rig, Coldre, Cinturão, mochila, etc) devem ser com o padrão multicam ou, pela cor secundária ( cor verde - Ranger Green (Olive Drab)). Não são autorizadas outras cores ou padrões (Regra relacionada com a uniformização e facilidade em trocar acessórios entre fardamentos).
