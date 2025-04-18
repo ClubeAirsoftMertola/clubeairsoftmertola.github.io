@@ -2,7 +2,11 @@
 <br><br><br><br>
 
 # Equipamento
-* [Estojo Primeiros Socorros](/camWikiestojo_primeiros_socorros.md)
+* [Estojo Primeiros Socorros (Mochila/Safezone)](/info/estojoPrimeirosSocorrosMochila.md)
+* [Estojo Primeiros Socorros (Membro)](/info/estojoPrimeirosSocorrosMochila.md)
+* [Equipamento](/info/camEquipamento.md)
+* [Equipamento Essencial](/info/camEquipamento.md)
+* [Fardamento](/info/camFardamento.md)
 
 
 <br><br><br>

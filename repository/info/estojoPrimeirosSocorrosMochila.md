@@ -1,5 +1,7 @@
 # Estojo de Primeiros Socorros Individual
   
+Items a ter no estejo de primeiros socorros que poderá ser acopolada (via MOLLE) à nossa mochila a ter na _safezone_:
+
   * Ligadura de Gaze
   * Ligadura de Cambric
   * Caixa pensos rápidos (clássicos)
