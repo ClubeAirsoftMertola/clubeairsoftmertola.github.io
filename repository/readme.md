@@ -10,6 +10,7 @@
 * [Mochila](/info/camMochila.md)
 
 
+
 <br><br><br>
 
 
@@ -19,3 +20,10 @@
 * [Extraction VIP or Hostage](/games/extractionVipHostage.md)
 * [Rush](/games/rushGame.md)
 
+
+
+<br><br><br>
+
+
+# Treinos
+* [Circuito](/training/circuit.md)
