@@ -9,6 +9,7 @@ Jogo semelhante ao famoso Counter Strike. Divide-se os jogadores em 2 equipas (T
 
  * **Tempo de Jogo:** 20 minutos
  * Com respawn
+ * Uso de rádios: On
 
 
 ### Regras de eliminação:

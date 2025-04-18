@@ -8,6 +8,7 @@ O principal objectivo do jogo Capture the Flag é entrar na base do inimigo, apa
 
  * **Tempo de Jogo:** 35 minutos
  * Sem respawn
+ * Uso de rádios: On
  * O jogador que transportar a bandeira for atingido, deixa cair a bandeira nesse sitio
  * A bandeira deve ser sempre visivel durante o seu transporte
  * Se a bandeira estiver no chão, a equipa adversária pode pegar nela e trazê-la de volta à sua base forçando a equipa atacante voltar a capturar

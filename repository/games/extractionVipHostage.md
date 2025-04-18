@@ -15,6 +15,7 @@ Quando for um número ímpar de jogadores, um jogador faz de VIP/Refém. Existem
 
 * **Tempo de Jogo:** 20 minutos
 * Sem respawn
+* Uso de rádios: On
 
 
 ### Regras de eliminação:
