@@ -5,7 +5,7 @@ O clube adoptou, em reunião, o uso do seguinte fardamento:
 
 <br><br>
 
-| **1º Uniforme** (Padrão Multicam)                | **2º Uniforme** (PMC / Contractor)                          | **3º Uniforme** (Cor Lisa)                 |
+| **1º Uniforme** (Padrão Multicam)                | **2º Uniforme** (PMC / Civil)                          | **3º Uniforme** (Cor Lisa)                 |
 |--------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|
 | Padrão Multicam (Gen 3)                          | Sweat sem capuz (personalizada com o logo e nome) cor preto | Padrão Liso (Ranger Green)                 |
 | Combat Shirt (patch clube + nome braço esquerdo) | Calças ganga (cor escuro/preto)                             | Calças cor lisa (Ranger Green)             |
@@ -28,4 +28,4 @@ No que toca às cores cada marca tem a sua própria tonalidade. Pede-se, assim, 
 <br><br>
 
 **Acessórios:** <br>
-Todos os equipamentos de transporte ou proteção (Colete, Chest Rig, Coldre, Cinturão, mochila, etc) devem ser com o padrão multicam ou, pela cor secundária ( cor verde - Ranger Green (Olive Drab)). Não são autorizadas outras cores ou padrões (Regra relacionada com a uniformização e facilidade em trocar acessórios entre fardamentos).
+Todos os equipamentos de transporte ou proteção (Shemag, Colete, Chest Rig, Coldre, Cinturão, mochila, etc) devem ser com o padrão multicam ou, pela cor secundária ( cor verde - Ranger Green (Olive Drab)). Não são autorizadas outras cores ou padrões (Regra relacionada com a uniformização e facilidade em trocar acessórios entre fardamentos).

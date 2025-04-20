@@ -6,7 +6,7 @@
 
 A capacidade pode ser de 20 litros, no entanto, a mochila de 36 litros fica desde já pronta para, num futuro próximo, participar em eventos de milsim de várias horas e/ou ter a mesma numa safezone com tudo pronto a ser utilizado.
 
-Padronizar todas as mochilas evita perda de tempo à procura de equipamento e no caso de esquecimento de algo, cada membroa sabe onde encontrar o que precisa na mochila do companheiro.
+Padronizar todas as mochilas evita perda de tempo à procura de equipamento e no caso de esquecimento de algo, cada membro sabe onde encontrar o que precisa na mochila do companheiro.
 
 
 
@@ -28,7 +28,7 @@ Padronizar todas as mochilas evita perda de tempo à procura de equipamento e no
 **Bolsa 3:**
 * Transporte de carregadores
 * Transporte de Luvas e óculos
-* Transporte de saco BB
+* Transporte de BB, Speedloaders
 
 
 

@@ -7,8 +7,8 @@ Para todos os elementos (quer do clube quer convidados), abaixo estão listadas 
 
 **Itens Obrigatórios (PARA TODOS):**
 
-* **Óculos:** não importa a marca, apenas têm que ter proteção balística, como por exemplo, estes;
-* **Máscara:** para além da visão, os dentistas são caros. Há muitas máscaras, fica ao gosto pessoal;
+* **Óculos:** não importa a marca, apenas têm que ter proteção balística;
+* **Máscara:** para além da visão, os dentistas são caros. Há muitas máscaras, fica ao gosto pessoal (outra opção é uso da balaclava);
 * **Botas:** tal como os olhos e boca, os nossos pés são importantes. Umas botas minimiza o risco de lesões.
 
 
@@ -42,6 +42,7 @@ Além do equipamento obrigatório, é necessário também:
 * Capacete / Boné / Chapéu
 * Chest rig / Colete
 * Bandoleira
+* Shemag
 
 
 
