@@ -3,12 +3,12 @@
 O clube faz-se representar pelos seus membros efetivos...
 
 * Andreia Matos
-* Roberto Mateus
-* Diogo Marques
-* Zé Pedro
 * António Silva
-* Zé Almeida
+* Diogo Marques
 * Miguel Rosa
+* Roberto Mateus
+* Zé Almeida
+* Zé Pedro
 
 
 <br>
