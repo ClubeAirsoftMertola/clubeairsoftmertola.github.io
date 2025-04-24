@@ -1,8 +1,11 @@
-<!--<br><br><br>
+<br><br><br>
 
 
-# **C**lube **A**irsoft **M**értola
-* [Membros](/info/camMembros.md)-->
+# Clube
+<!--
+* [Membros](/info/camMembros.md)
+* [Regras e Conduta](/info/camRegrasConduta.md)-->
+* [Redes Sociais](/info/camRedesSociais.md)
 
 
 
@@ -20,7 +23,6 @@
 
 <br><br><br>
 
-
 # Jogos
 * [Capture the Flag](/games/captureTheFlag.md)
 * [Defuse Bomb](/games/defuseBomb.md)
@@ -30,7 +32,6 @@
 
 
 <br><br><br>
-
 
 # Treinos
 * [Circuito](/training/circuit.md)

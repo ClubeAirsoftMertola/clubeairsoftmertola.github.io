@@ -28,4 +28,4 @@ No que toca às cores cada marca tem a sua própria tonalidade. Pede-se, assim, 
 <br><br>
 
 **Acessórios:** <br>
-Todos os equipamentos de transporte ou proteção (Shemag, Colete, Chest Rig, Coldre, Cinturão, mochila, etc) devem ser com o padrão multicam ou, pela cor secundária ( cor verde - Ranger Green (Olive Drab)). Não são autorizadas outras cores ou padrões (Regra relacionada com a uniformização e facilidade em trocar acessórios entre fardamentos).
+Todos os equipamentos de transporte ou proteção (Shemag, Colete, Chest Rig, Coldre, Cinturão, mochila, etc) devem ser com o padrão multicam ou, pela cor secundária ( cor verde - Ranger Green (Olive Drab)). Não são autorizadas outras cores ou padrões (regra relacionada com a uniformização e facilidade em trocar acessórios entre fardamentos).

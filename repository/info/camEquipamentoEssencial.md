@@ -3,12 +3,12 @@
 Para todos os elementos (quer do clube quer convidados), abaixo estão listadas os itens obrigatórios:
 
 
-<br>
+<br><br>
 
 **Itens Obrigatórios (PARA TODOS):**
 
 * **Óculos:** não importa a marca, apenas têm que ter proteção balística;
-* **Máscara:** para além da visão, os dentistas são caros. Há muitas máscaras, fica ao gosto pessoal (outra opção é uso da balaclava);
+* **Máscara:** para além da visão, os dentistas são caros. Há muitas máscaras, fica ao gosto pessoal (outra opção é uso da balaclava com máscara incorporada);
 * **Botas:** tal como os olhos e boca, os nossos pés são importantes. Umas botas minimiza o risco de lesões.
 
 

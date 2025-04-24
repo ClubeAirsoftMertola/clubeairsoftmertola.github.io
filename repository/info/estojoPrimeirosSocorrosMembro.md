@@ -1,6 +1,6 @@
 # Estojo de Primeiros Socorros Individual
   
-Items a ter no estejo de primeiros socorros que está sempre presente no loadout do membro (seja no colete ou cinto):
+Items a ter no estojo de primeiros socorros que está sempre presente no loadout do membro (seja no colete/chest rig ou cinto):
 
   * Ligadura de Gaze
   * Ligadura de Cambric

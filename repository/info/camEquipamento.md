@@ -37,4 +37,4 @@ Caso haja a necessidade de criação de várias classes, as mesmas serão dividi
 <br><br><br>
 **NOTA:**<br>
 Todas as réplicas devem cumprir com a lei vigente, e todo o equipamento deve ser tendencialmente da melhor qualidade possível. **A PROTEÇÃO OCULAR É OBRIGATÓRIA** Aplicam-se todas as regras de segurança no uso e manuseamento de armas.
-**Todo o equipamento é individual, no entanto, poder-se-á efectuar compras em conjunto estando as mesmas ao uso de todos os membros.** Todas as despesas estarão discriminadas (em excel) no arquivo do clube para posterior consulta.
+**Todo o equipamento é individual, no entanto, poder-se-á efectuar compras em conjunto estando as mesmas ao uso de todos os membros.** Todas as despesas estarão discriminadas (em excel) no arquivo do clube para consulta.
