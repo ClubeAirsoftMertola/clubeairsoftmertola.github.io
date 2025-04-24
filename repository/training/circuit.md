@@ -8,7 +8,7 @@ xxxxxx xxxxxx xxxxxx xxxxx (várias tarefas sequenciais cronometradas).
 <br><br><br>
 
 * **"Limpar" a casa:**
-  * Limpar os compartimentos de uma casa. Estão vários balões a simular pessoas presentes nessas divisões (balão azul para refém, balão vermelho para terrorista). Ocasionalmente poderá haver membros do CAM dentro dos compartimentos. O operador para limpar tem que disparar para os balões vermelhos, caso acerte no(s) balão(ões) azul(is) acrescenta uma penalização ao tempo total de prova.
+Limpar os compartimentos de uma casa. Estão vários balões a simular pessoas presentes nessas divisões (balão azul para refém, balão vermelho para terrorista). Ocasionalmente poderá haver membros do CAM dentro dos compartimentos. O operador para limpar tem que disparar para os balões vermelhos, caso acerte no(s) balão(ões) azul(is) acrescenta uma penalização ao tempo total de prova.
   
 * **Recarregar:** Exercício para treinar o reload da arma principal, quer parado quer em movimento para a estação seguinte. O reload em movimento não pode ser o mesmo que utilizou no reload parado.
 
@@ -46,7 +46,7 @@ xxxxxx xxxxxx xxxxxx xxxxx (várias tarefas sequenciais cronometradas).
 ### Regras de Bonificações:
 
  * Estação _Tiro Cego_:
-   * -5seg por atingir o alvo.
+   * -10seg por atingir o alvo.
 
 <br><br>
 

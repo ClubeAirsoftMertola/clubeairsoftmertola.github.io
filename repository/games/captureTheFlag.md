@@ -16,9 +16,10 @@ O principal objectivo do jogo Capture the Flag é entrar na base do inimigo, apa
  * Full-auto: Não
  * Pirotécnia: Permitido (apenas granadas de som)
  * Rendições: Sempre que houver um contacto entre jogadore num radio de 5 metros
- * O jogador que transportar a bandeira for atingido, deixa cair a bandeira nesse sitio
- * A bandeira deve ser sempre visivel durante o seu transporte
- * Se a bandeira estiver no chão, a equipa adversária pode pegar nela e trazê-la de volta à sua base forçando a equipa atacante voltar a capturar
+ * Bandeira:
+   * O jogador que a transportar a for atingido, deixa-a cair a nesse sitio;
+   * Deve ser sempre visivel durante o seu transporte;
+   * Se a estiver no chão, a equipa adversária pode pegar nela e trazê-la de volta à sua base forçando a equipa atacante voltar a capturar.
 
 
 

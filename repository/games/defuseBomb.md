@@ -30,7 +30,7 @@ Jogo semelhante ao famoso Counter Strike. Divide-se os jogadores em 2 equipas (T
  * É considerado morto se for atingido na arma
  * Sair da zona limite da área de jogo
  * Proceder à regra “comum” de eliminado
- * Caso seja lançada uma granada, os jogadores que tiverem dentro de um raio de 5 m são considerados mortos
+ * Caso seja lançada uma granada, os jogadores que tiverem dentro de um raio de 5 metros são considerados mortos
 
 
 
