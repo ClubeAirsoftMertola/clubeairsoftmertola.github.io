@@ -1,6 +1,6 @@
 body {
   font-family: 'Special Elite', monospace;
-  background-color: #1b1b1b;
+  background-color: #0e0d0d;
   color: #eee;
 }
 
@@ -9,7 +9,7 @@ body {
 }
 
 .hero-section {
-  background-image: url('https://images.unsplash.com/photo-1598284265421-96f15e5b6e60?auto=format&fit=crop&w=1470&q=80');
+  background-image: url('../img/bg-hero.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -37,6 +37,17 @@ body {
   border-bottom: 2px solid #ffc107;
   display: inline-block;
   margin-bottom: 1rem;
+}
+
+.lead{
+  font-family: 'Special Elite', monospace;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.fw-bold{
+  font-weight: 700 !important;
+  font-family: 'Special Elite', monospace;
 }
 
 #membros img {
