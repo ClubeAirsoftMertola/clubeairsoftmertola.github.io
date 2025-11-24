@@ -1,0 +1,41 @@
+/* Melhorar alinhamento da checkbox e label */
+    .form-check {
+      display: flex;
+      align-items: center;
+      padding: 10px 15px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      background-color: #fff;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+      box-shadow: 0 0 6px rgb(0 0 0 / 0.05);
+    }
+
+    .form-check:hover {
+      background-color: #f8f9fa;
+    }
+
+    .form-check-input {
+      margin-right: 12px;
+      flex-shrink: 0;
+      width: 20px;
+      height: 20px;
+    }
+
+    .form-check-label {
+      margin-bottom: 0;
+      font-weight: 500;
+      user-select: none;
+      flex-grow: 1;
+    }
+
+    /* Ajuste do container das colunas para mais espaço */
+    #lista-nomes {
+      max-width: 700px;  /* opcional para não esticar muito */
+      margin: 0 auto;
+    }
+
+    /* Controlar espaçamento das colunas */
+    #lista-nomes > .col {
+      margin-bottom: 10px;
+    }
