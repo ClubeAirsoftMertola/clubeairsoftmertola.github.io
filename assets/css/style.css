@@ -31,6 +31,13 @@ body {
   z-index: 3;
 }
 
+
+/*.hero-section img:hover {
+  transform: scale(1.30);
+}
+*/
+
+
 .section-title {
   font-family: 'Special Elite', monospace;
   font-size: 2rem;
