@@ -45,7 +45,7 @@ function gerarEquipasSelecionadas() {
     return;
   }
 
-  // Embaralhar
+  // Sortear
   for (let i = selecionados.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [selecionados[i], selecionados[j]] = [selecionados[j], selecionados[i]];
