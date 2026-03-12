@@ -67,13 +67,13 @@ function gerarEquipasSelecionadas() {
   abrirModal(`
     <div class="row mt-3">
       <div class="col-md-6">
-        <h6 class="text-danger">🟥 Red Team</h6>
+        <h6 class="text-danger">🟥 Atacantes</h6>
         <ul class="list-group list-group-flush">
           ${terroristas.map(n => `<li class="list-group-item">${n}</li>`).join("")}
         </ul>
       </div>
       <div class="col-md-6">
-        <h6 class="text-primary">🟦 Blue Team</h6>
+        <h6 class="text-primary">🟦 Defensores</h6>
         <ul class="list-group list-group-flush">
           ${ct.map(n => `<li class="list-group-item">${n}</li>`).join("")}
         </ul>
